@@ -26,3 +26,5 @@ uLoggerErrorCode ulogger_log(uLogger *ulogger, LogLevel level, EventType event_t
 
     return return_value;
 }
+
+//
